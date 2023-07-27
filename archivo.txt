@@ -1,1 +1,2 @@
 Se añede más texto para prueba a commit y push.
+Otro usuario realiza nuevas modificaciones al código.
