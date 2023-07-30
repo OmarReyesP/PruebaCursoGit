@@ -1,9 +1,2 @@
 Línea1
-<<<<<<< HEAD
 Línea2
-Línea3
-Línea4
-Línea5
-=======
-Línea2
->>>>>>> parent of 7062b18 (agregando linea3)
